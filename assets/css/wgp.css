@@ -1,0 +1,16 @@
+.product-child {
+    min-width: 200px;
+    float: left;
+    margin:5px;
+    padding:5px;
+    text-align:center;
+}
+
+.product-child h4,h5{
+	padding:0;
+	margin:0;
+}
+
+.price {
+	float:right;
+}
